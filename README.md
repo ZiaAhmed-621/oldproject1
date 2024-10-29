@@ -1,3 +1,6 @@
+Basic python game experiment using time, readchar and colorama modules. Intended as a learning experience only.
+
+
 Dev Notes: 
 
 Type: Issues/Problems
