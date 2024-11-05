@@ -5,7 +5,7 @@ Dev Notes:
 
 Type: Issues/Problems
 
-Dodge input as an inherent issue of fetching keypress
+Dodge input has an inherent issue of fetching keypress
 even if the key is pressed much sooner than intended. This allows player
 to pre-press the key and always succeed in dodging. Precisely timed keypress
 MIGHT be acheivable using msvcrt module but the module seems to hold no regards
